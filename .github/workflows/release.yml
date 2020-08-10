@@ -1,9 +1,12 @@
+name: Release Extension
+
 on:
-  pull_request:
-    tags: release
+  push:
     branches:
       - master
-name: Release Extension
+    tags:
+      - release
+
 jobs:
   deploy:
     runs-on: ubuntu-latest
