@@ -6,7 +6,7 @@
 
 # Communication ⚠️
 
-This project is community-maintained and the source is encrypted. If you want to maintain it and ship new fixes, ask to become a maintainer so you'll have full access to the repository.
+This project is community-maintained and the source is encrypted. If you want to maintain it and ship new fixes, ask to become a maintainer so you'll have full access to the repository. To submit the request, you can open a new issue or send an email to actual contributors.
 
 ---
 
