@@ -79,8 +79,16 @@ You can override the Material Theme UI and schemes colors by adding these theme-
 
 **Basic example**
 ```js
+// Overrides colors
+"workbench.colorCustomizations": {
+	"[Community Material Theme VARIANT]": {
+		"sideBar.background": "#ff0000",
+	}
+},
+
+// Overrides editor syntax colors and font style
 "editor.tokenColorCustomizations": {
-    "[Community Material Theme]": {
+    "[Community Material Theme VARIANT]": {
         "comments": "#229977"
     }
 },
@@ -105,12 +113,6 @@ You can override the Material Theme UI and schemes colors by adding these theme-
             }
         ]
     },
-},
-
-"workbench.colorCustomizations": {
-	"[Community Material Theme VARIANT]": {
-		"sideBar.background": "#ff0000",
-	}
 },
 ```
 
