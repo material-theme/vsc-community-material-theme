@@ -721,6 +721,7 @@
     "editor.findMatchHighlightBorder": "#ffffff30",
     "tab.activeBorder": "#80CBC4",
     "tab.activeModifiedBorder": "#616161",
+    "tab.activeBackground": "#131313",
     "tab.unfocusedActiveBorder": "#545454",
     "tab.activeForeground": "#FFFFFF",
     "tab.inactiveForeground": "#616161",
